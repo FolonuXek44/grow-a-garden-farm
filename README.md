@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: grow-a-garden-farm, grow-a-garden, roblox, autofarm, harvest, plant, helper, gaming-tools, automation, cli, developer-tools, open-source, windows, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+grow-a-garden roblox autofarm harvest plant helper gaming-tools automation garden-autofarm gag-farm-helper grow-a-garden-farm windows portable prebuilt x64 free download
+related: grow-a-garden, roblox, autofarm, harvest, plant, helper, gaming-tools, automation
